@@ -23,5 +23,9 @@
   "main": "./index.js",
   "optionalDependencies": {},
   "peerDependencies": {
+        "react": "15.2.1",
+    "react-dom": "^15.2.1",
+        "react-tap-event-plugin": "^1.0.0"
+
   }
 }
